@@ -11,6 +11,10 @@ html {
   box-sizing: border-box;
 }
 
+main{
+  box-sizing: border-box;
+}
+
 /*
     2. Remove default margin
   */
